@@ -1,0 +1,22 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.temp
+*.log
+*~
+
+# Simulator or export leftovers
+*.out
+*.lst
+*.mem
+
+# Archive leftovers
+*.zip
+*.rar
